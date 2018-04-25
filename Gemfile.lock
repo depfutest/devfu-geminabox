@@ -1,5 +1,4 @@
 GEM
-  remote: https://rubygems.org/
   remote: https://devfu-geminabox.herokuapp.com/
   specs:
     flowbyte-private (1.0.0)
@@ -9,7 +8,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  flowbyte-private!
+  flowbyte-private
   rake
 
 BUNDLED WITH

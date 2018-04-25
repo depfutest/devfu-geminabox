@@ -1,7 +1,4 @@
-source "https://rubygems.org"
+source 'https://devfu-geminabox.herokuapp.com/'
 
 gem 'rake'
-
-source 'https://devfu-geminabox.herokuapp.com/' do
-  gem 'flowbyte-private'
-end
+gem 'flowbyte-private'
