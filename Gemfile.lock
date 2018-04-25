@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  remote: https://devfu-geminabox.herokuapp.com/
+  specs:
+    flowbyte-private (1.0.0)
+    rake (12.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  flowbyte-private!
+  rake
+
+BUNDLED WITH
+   1.15.2
