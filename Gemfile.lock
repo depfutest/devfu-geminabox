@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   remote: https://devfu-geminabox.herokuapp.com/
   specs:
-    flowbyte-private (1.0.0)
+    flowbyte-private (2.0.0)
     rake (12.3.1)
 
 PLATFORMS
